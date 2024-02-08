@@ -41,7 +41,7 @@ Comando (Abre sakura): `sudo apt install lightdm lightdm-gtk-greeter lightdm-gtk
    `CuerdOS LightDM Theme/files/etc/lightdm` a `/etc/lightdm/`.
 
 5. Copia los archivos del tema a la siguiente carpeta:
-   `/CuerdOS-Extras/CuerdOS LightDM Theme/files/usr/share/backgrounds/lightdm` a `/usr/share/backgrounds/`.
+   `/CuerdOS LightDM Theme/files/usr/share/backgrounds/lightdm` a `/usr/share/backgrounds/`.
 
 6. Después de haber instalado la configuración y parte del tema, sigue estos pasos:
    - Abre sakura.
